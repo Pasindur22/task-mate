@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF1A1A1A</color>
+    <color name="white">#FFF8F8F8</color>
+
+    <color name="grey">#B8BDC1</color>
+    <color name="addtaskbutton">#FF6347</color> <!-- Tomato Red -->
+    <color name="primaryColor">#00796B</color> <!-- Teal -->
+
+    <!-- Background Colors -->
+    <color name="cardBackground">#A3D3D1</color> <!-- Light Teal background for the card -->
+    <color name="appBackground">#E1F7F4</color> <!-- Very light teal background for the app -->
+
+    <!-- Text Colors -->
+    <color name="textColor">#2A2A2A</color> <!-- Slightly softer black for text -->
+    <color name="secondaryTextColor">#6B6B6B</color> <!-- Mid gray for secondary text -->
+
+    <!-- Accent Colors -->
+    <color name="accentColor">#FF6F61</color> <!-- Coral Accent -->
+    <color name="titleColor">#1C1C1C</color> <!-- Darker black for title -->
+    <color name="dateColor">#4C4C4C</color> <!-- Softer gray for date -->
+</resources>
